@@ -21,6 +21,8 @@ I'm currently working on the following projects:
 
 - [Pyventus](https://github.com/mdapena/pyventus) (Author & Maintainer) ─ An open-source Python package for event-driven
   programming. Define, emit, and orchestrate events with ease using customizable event emitters and flexible responses.
+- [PyORlib](https://github.com/dapensoft/pyorlib) (Co-Author & Maintainer) ─ A powerful Python library for operations research.
+  Define, solve, and interact with mathematical models in a standardized manner across different optimization packages. 
 - [Angular Project Structure](https://github.com/mdapena/Angular-Project-Structure) (Author & Maintainer) ─ An
   open-source architectural guideline for structuring Angular applications with a domain and modularity approach.
 

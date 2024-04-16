@@ -16,7 +16,7 @@ computing.
 ### 🚀 Current Projects
 
 I'm currently working on the following projects:
-- [Pyventus](https://github.com/mdapena/pyventus) (Author & Maintainer) ─ A powerful open-source Python package for event-driven
+- [Pyventus](https://github.com/mdapena/pyventus) (Creator & Maintainer) ─ A powerful open-source Python package for event-driven
   programming; define, emit, and orchestrate events with ease.
 - [PyORlib](https://github.com/dapensoft/pyorlib) (Co-Author & Maintainer) ─ A powerful Python library for operations research.
   Define, solve, and interact with mathematical models in a standardized manner across different optimization packages. 
